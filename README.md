@@ -1,7 +1,7 @@
 # MusicBox
-Proyecto final del seminario "New Media Art" impartido en CEART Tijuana donde se abordo la herramienta processing como generador de arte.
+Proyecto final del seminario "New Media Art" impartido en CEART Tijuana donde se abordó la herramienta processing como generador de arte.  
 
-Este proyecto permite hacer musica de forma colaborativa con otro usuario a travez de internet.
+Este proyecto permite hacer música de forma colaborativa con otro usuario a través de internet.
 
 ## Requisitos
 
@@ -13,10 +13,10 @@ $ npm install
 $ node app.js
 ```
 
-**Librerias**  
+**Librerías**  
 [Socket.io] para comunicacion en tiempo real.  
-[Processing.js] un port del lenguje processing.  
-[Express] Web frameworl para node.js.  
+[Processing.js] un port del lenguaje processing.  
+[Express] Web framework para node.js.  
     
 [Socket.io]: <http://socket.io/>
 [Processing.js]: <http://processingjs.org/>
