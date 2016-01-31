@@ -1,0 +1,12 @@
+{
+  "name": "Arduino-Processingjs-SocketIO",
+  "version": "0.0.0",
+  "authors": [
+    "Danial Khosravi <dani_khosravi@yahoo.com>"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "Processing.js": "~1.4.16",
+    "jquery": "~2.2.0"
+  }
+}
