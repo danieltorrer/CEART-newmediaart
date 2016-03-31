@@ -3,6 +3,10 @@ Proyecto final del seminario "New Media Art" impartido en CEART Tijuana donde se
 
 Este proyecto permite hacer música de forma colaborativa con otro usuario a través de internet.
 
+
+## [VER]
+
+
 ## Requisitos
 
 Tener instalado Node.js
@@ -21,6 +25,4 @@ $ node app.js
 [Socket.io]: <http://socket.io/>
 [Processing.js]: <http://processingjs.org/>
 [Express]: <http://expressjs.com/es/>
-
-
-
+[VER]: <https://newmediaart-ceart.herokuapp.com/>
